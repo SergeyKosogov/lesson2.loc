@@ -20,6 +20,8 @@
         } else {
             echo('Metallica');
         }
+
+        echo($a - $b);
     ?>
 </body>
 
