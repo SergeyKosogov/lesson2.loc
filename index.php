@@ -10,7 +10,16 @@
 
 <body>
     <?php
-        echo('Hello WORLD');  
+        echo('Hello WORLD');
+
+        $a = 3;
+        $b = 7;
+
+        if ($a > $b) {
+            echo('A > B');
+        } else {
+            echo('Metallica');
+        }
     ?>
 </body>
 
